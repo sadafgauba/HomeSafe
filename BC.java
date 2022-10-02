@@ -1,6 +1,6 @@
 public class BC {
     
-    public static void batteryCheck() {
+    public static void batteryControl() {
         Battery battery = new Battery();
         Notifications notif = new Notifications();
         while (true){

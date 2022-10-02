@@ -2,9 +2,9 @@ public class PC {
 
     public static void passcodeControl() {
         
-        public static boolean disableKeypad = false;
+        /*public static boolean disableKeypad = false;
         int[] correctPasscode;
         Storage storage = new Storage();
-        correctPasscode = storage.readPasscode();
+        correctPasscode = storage.readPasscode();*/
     }
 }

@@ -1,5 +1,5 @@
 public class Storage {
-
+/*
     private int[] keyStored;
 
 
@@ -16,7 +16,7 @@ public class Storage {
             keyStored[i] = newPasscode[i];
         }
         // TODO: here write the new passcode to csv
-    }
+    }*/
 
 
 

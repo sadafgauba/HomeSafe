@@ -5,13 +5,6 @@ public class Door {
      * All interaction with these devices must go through the DOOR.
      */
 
-     
-}
-
-
-import java.util.Scanner;  // Import the Scanner class
-public class Main {
-
 
     static void door_control(boolean order_to_door ,boolean door_status) { //This function opens or closes the door depending of the comparison of the local and stored passcode
 
@@ -41,7 +34,7 @@ public class Main {
 
 
         }
-        }
+    }
 
 
 
@@ -94,4 +87,8 @@ public class Main {
         door_control(a1,a2);
 
     }
+
+     
 }
+
+
