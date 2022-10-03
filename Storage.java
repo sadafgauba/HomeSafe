@@ -21,7 +21,11 @@
 
 
 import java.util.*;
+
+
     public class Storage {
+
+        public int counter = 0;
         private int[] newPasscode={2,3,4,5};
         public int[] PIN={1,2,5,4};
         public static boolean PINcheck;
